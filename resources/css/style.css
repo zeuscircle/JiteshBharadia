@@ -4,5 +4,6 @@ body {
 
 h1 {
 	color: white;
-	font-family: tahoma
+	font-family: tahoma;
+	text-align: center;
 }
