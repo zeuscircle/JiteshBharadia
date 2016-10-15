@@ -1,4 +1,4 @@
-var today = newDate()
+var today = new Date()
 var curHr = today.getHours()
 
 if(curHr<12) {
